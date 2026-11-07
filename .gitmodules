@@ -1,0 +1,6 @@
+[submodule "fases/fase-2/tech-challenge"]
+	path = fases/fase-2/tech-challenge
+	url = https://github.com/luiz-mota/tech-challenge-fase2.git
+[submodule "fases/fase-3/tech-challenge"]
+	path = fases/fase-3/tech-challenge
+	url = https://github.com/luiz-mota/tech-challenge-fase3.git
