@@ -7,7 +7,7 @@ Pipelines · NoSQL para ciência de dados
 Pipeline batch + streaming com arquitetura Medalhão (Bronze/Silver/Gold)
 sobre o Indicador Criança Alfabetizada.
 
-Código: [`tech-challenge/`](tech-challenge) · [repositório](https://github.com/luiz-mota/tech-challenge-fase2)
+Código: [tech-challenge-fase2](https://github.com/luiz-mota/tech-challenge-fase2) (também na pasta `tech-challenge/` desta fase)
 
 ## Conteúdo
 *Notebooks de estudo em breve.*
