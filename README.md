@@ -12,7 +12,7 @@ o projeto avaliativo da fase.
 
 | Fase | Disciplinas | Tech Challenge |
 |------|-------------|----------------|
-| [1](fases/fase-1) | Ambientes de trabalho · Análise exploratória · Estatística | NPS Preditivo *(em breve)* |
+| [1](fases/fase-1) | Ambientes de trabalho · Análise exploratória · Estatística | [NPS Preditivo: drivers de satisfação em e-commerce](https://github.com/luiz-mota/tech-challenge-fase1) |
 | [2](fases/fase-2) | Arquitetura de Big Data · Bancos relacionais · ETL · NoSQL | [Pipeline híbrido batch + streaming (Medalhão)](https://github.com/luiz-mota/tech-challenge-fase2) |
 | [3](fases/fase-3) | ML supervisionado e não supervisionado · Aprendizado por reforço · Otimização e avaliação · Séries temporais | [Predição de alfabetização infantil (XGBoost + SHAP)](https://github.com/luiz-mota/tech-challenge-fase3) |
 | [4](fases/fase-4) | Deep Learning · IA Generativa · LangChain · NLP | Voice of Customer com RAG *(em andamento)* |
