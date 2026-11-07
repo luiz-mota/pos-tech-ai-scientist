@@ -7,7 +7,7 @@ exploratória de dados · Estatística essencial para cientistas de dados
 Previsão do Net Promoter Score de clientes de e-commerce antes do fim da
 jornada de compra, para permitir ações preventivas.
 
-➡️ [`tech-challenge/`](tech-challenge) · [repositório](https://github.com/luiz-mota/tech-challenge-fase1)
+Código: [`tech-challenge/`](tech-challenge) · [repositório](https://github.com/luiz-mota/tech-challenge-fase1)
 
 ## Conteúdo
 *Notebooks de estudo em breve.*

@@ -7,7 +7,7 @@ Aprendizagem por reforço · Otimização e avaliação de modelos · Séries te
 Classificação binária sobre 1,85 milhão de alunos com XGBoost, validação
 agrupada por município, interpretabilidade com SHAP e 61 testes automatizados.
 
-➡️ [`tech-challenge/`](tech-challenge) · [repositório](https://github.com/luiz-mota/tech-challenge-fase3)
+Código: [`tech-challenge/`](tech-challenge) · [repositório](https://github.com/luiz-mota/tech-challenge-fase3)
 
 ## Conteúdo
 | Disciplina | Notebooks |
